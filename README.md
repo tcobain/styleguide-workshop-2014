@@ -32,9 +32,9 @@ Réalisation d'un styleguide web selon le process enseigné (Hologram, Bootstrap
 - Décliner les éléments du styleguide dans les vues d'une application web
 
 ## Pré-requis
-- Maitriser son un environnemnt de travail
+- Maitriser son environnemnt de travail
 - Maitriser les langages HTML/CSS
-- Connaissance de bootstrap
+- Connaissance de Bootstrap 3
 
 ## Attentes
 - ...
