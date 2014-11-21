@@ -39,3 +39,18 @@ Réalisation d'un styleguide web selon le process enseigné (Hologram, Bootstrap
 ## Attentes
 - ...
 
+## Théorie (Sujets abordés)
+- Modular first
+- Large scale frontend project
+- DRY concept
+- Technical dept concept
+- Don't fear your terminal
+- GIT is your friend
+- Bootstrap
+- NPM
+- Gulp
+- Yeoman
+- Bower
+- Hologram
+- Cortana
+- Holostrap
