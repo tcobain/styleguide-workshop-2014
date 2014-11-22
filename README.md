@@ -52,6 +52,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 
 ## Groupes et sujet
 | Groupe | Organisation | Documents Corporate |
+| ------ | ------------ | ------------------- |
 | A | [Handicap International]{http://www.handicap-international.ch/fr/} | http://www.handicap-international.org.uk/Resources/Handicap%20International/PDF%20Documents/HI%20Associations/RA2013-FED-en.PDF |
 | B | [Human Rights Watch]{http://www.hrw.org/} | http://www.hrw.org/annual-report |
 | C | [World Organisation Against Torture]{http://www.omct.org/} | |
