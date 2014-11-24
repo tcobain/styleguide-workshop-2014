@@ -19,6 +19,24 @@ $ sudo npm install -g gulp
 $ sudo npm install -g bower
 ```
 
+## Pour vérifier
+
+```
+$ gem list
+```
+
+Il doit y avoir :
+- Hologram
+- Sass
+
+```
+$ npm -g list
+```
+
+Il doit y avoir :
+- Gulp
+- Bower
+
 ### Problème `gem install` ...
 
 ```
