@@ -16,6 +16,5 @@ $ gem install sass
 $ gem install hologram
 
 $ sudo npm install -g gulp
-$ sudo npm install -g hologram
 $ sudo npm install -g bower
 ```
