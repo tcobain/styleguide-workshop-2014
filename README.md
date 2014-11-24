@@ -122,6 +122,8 @@ L'évaluation est basée sur les critères ci-après. Une note est attribué pou
 
 ### GIT is your friend
 - https://try.github.io/levels/1/challenges/1
+- http://rogerdudler.github.io/git-guide/
+- http://danielkummer.github.io/git-flow-cheatsheet/
 
 ### Bootstrap
 - http://getbootstrap.com
