@@ -34,7 +34,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Prénom, Nom | Groupe |
 | ------------ |:-----:|
 | Maya Beeler | A |
-| Tanaquil Berger | A |
+| Tanaquil Berger | [tcobain] | A |
 | Benjamin Régis | A |
 | Laura Gardel | B |
 | Alexine Bruttin | B |
