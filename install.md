@@ -1,7 +1,7 @@
 ## Ouvrir le Terminal
 
 - Aller dans `/Applications/Utilitaires/Terminal`.
-- Ensuite `Terminal/Préférences/Profil` -> Personnaliser les couleurs 
+- Ensuite `Terminal/Préférences/Profil` -> Personnaliser les couleurs
 
 ## Dans votre terminal :
 
@@ -18,3 +18,11 @@ $ gem install hologram
 $ sudo npm install -g gulp
 $ sudo npm install -g bower
 ```
+
+### Problème `gem install` ...
+
+```
+$ \curl -sSL https://get.rvm.io | bash -s stable --ruby
+```
+
+Ouvrer une nouvelle tab dans votre terminal et continuer !
