@@ -1,3 +1,8 @@
+## Ouvrir le Terminal
+
+- Aller dans `/Applications/Utilitaires/Terminal`.
+- Ensuite `Terminal/Préférences/Profil` -> Personnaliser les couleurs 
+
 ## Dans votre terminal :
 
 ```
